@@ -1,0 +1,17 @@
+# Site settings
+title: NEXATEN Business Solutions
+description: Software Development | Cloud Services | Integrations
+baseurl: ""
+url: "https://nexaten.github.io"
+
+# User settings
+username: NEXATEN BUSINESS SOLUTIONS
+user_description: "Software Development | Cloud Services | Integrations"
+user_title: Software Development | Cloud Services | Integrations 
+email: info@nexaten.com
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
